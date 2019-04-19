@@ -1,0 +1,14 @@
+:root {
+    --white: #fff4e8;
+    --green: #00b300;
+    --md-breakpoint: 768px;
+    --baseFont: 'Roboto';
+    --headerHeight: 80px;
+}
+
+/* lub */
+
+:root {
+    --secondary: #fff4e8;
+    --primary: #00b300;
+}

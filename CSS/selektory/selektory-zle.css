@@ -1,0 +1,37 @@
+header {
+    height: 30px;
+}
+
+nav > ul > li > a {
+    color: red;
+}
+
+.products {
+    background: yellow;
+    height: 30px;
+    display: flex;
+    border: 1px solid white;
+}
+
+.portfolio {
+    background: green;
+    height: 30px;
+    display: flex;
+    border: 1px solid white;
+}
+
+.photos {
+    background: red;
+    height: 30px;
+    display: flex;
+    border: 1px solid white;
+}
+
+#idA,
+#idB,
+#idC,
+#idD {
+    color: green;
+}
+
+.footer { background: red; padding: 2em; border: 1px solid black; }

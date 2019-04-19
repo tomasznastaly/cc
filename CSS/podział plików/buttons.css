@@ -1,0 +1,6 @@
+@import "variables.css";
+
+button {
+    background: var(--green);
+    color: var(--white);
+}

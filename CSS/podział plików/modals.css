@@ -1,0 +1,6 @@
+@import "variables.css";
+
+.modal {
+    border: 1px solid var(--green);
+    color: var(--white);
+}
